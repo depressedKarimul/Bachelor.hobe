@@ -1,0 +1,20 @@
+#Find-vacation{
+
+    background-image: url('https://images.pexels.com/photos/2325447/pexels-photo-2325447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;            
+    background-position: center;       
+    background-repeat: no-repeat;     
+    background-attachment: fixed;     
+  }
+
+
+ 
+  
+
+
+@media (max-width: 768px) {
+  body {
+    background-size: contain;        
+    background-attachment: scroll;   
+  }
+}
