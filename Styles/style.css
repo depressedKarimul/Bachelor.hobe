@@ -1,4 +1,4 @@
-#Find-vacation{
+#Find-vacation, #Popular-Explore{
 
     background-image: url('https://images.pexels.com/photos/2325447/pexels-photo-2325447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-size: cover;            
@@ -6,6 +6,7 @@
     background-repeat: no-repeat;     
     /* //background-attachment: fixed;      */
   }
+ 
 
 
  #Home-rentals{
@@ -19,11 +20,11 @@
 
 
   .image-container img {
-    transition: transform 0.3s ease; /* Smooth transition */
+    transition: transform 0.3s ease; 
   }
   
   .image-container img:hover {
-    transform: scale(1.1); /* Zooms the image to 110% */
+    transform: scale(1.1); 
   }
   
 
